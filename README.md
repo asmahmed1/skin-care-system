@@ -12,7 +12,6 @@ The Skin Care System is a Python-based program that asks users simple questions 
 ## Future Plans
 - Add reminders for AM/PM routines.
 - Include ingredient explanations (e.g., niacinamide, hyaluronic acid).
-- Build a simple GUI with Tkinter or Flask.
 
 ---
 
