@@ -7,3 +7,11 @@ To evaluate it, I opened the codebase locally and wrote a small Python script (`
 Going forward, I plan to:
 - Use the SkincareAPI structure as a model for how to organize product and ingredient data.
 - Build a simple Python-based dataset or API that my Skin Care System can use for personalized recommendations.
+
+## Sprint 2 Tasks
+- [x] Create Python app scaffold and requirements
+- [x] Implement CLI questionnaire for skin type and concerns
+- [x] Add rules engine for routine generation
+- [x] Add small local product dataset
+- [ ] Log user sessions to CSV and show trends
+- [ ] Build simple Tkinter interface
